@@ -2,9 +2,9 @@
 What is this? 
 
 This is a tools that show the infomation of the valorant account. You put the account in it and then it will check the info. 
-Only show account that is full captured, otherwise, it wont show in result
-Auto create result folder
-Remember, to make this tools works, you need to put your own combo file and make sure the combo file is not damage and doesnt have the blank line
+Only show account that is full captured, otherwise, it wont show in result.
+Auto create result folder.
+Remember, to make this tools works, you need to put your own combo file and make sure the combo file is not damage and doesnt have the blank line.
 
 How to use: install python, install all library that is needed
 
@@ -20,7 +20,7 @@ https://discord.gg/5XxpCPeWGc
 Output format:
 ![image](https://user-images.githubusercontent.com/91546664/189029052-55af9b07-6381-4598-a9d8-ba02c4a6691a.png)
 
-Note: The 2.3 compiled version is in my discord sever
+Note: The 2.3 compiled version is in my discord sever.
       The checker will get 3mins ratelimit after 60 accounts, after that it will work again, dont close it, be patient
       
 Please leave a star if you like this <3
