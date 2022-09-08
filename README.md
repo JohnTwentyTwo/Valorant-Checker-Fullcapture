@@ -10,9 +10,6 @@ How to use: install python, install all library that is needed
 
 Youtube tutorial: 
 https://www.youtube.com/watch?v=v1cQ4jTaeMc
-
-Discord:
-https://discord.gg/5XxpCPeWGc
  
  Main GUI:
 ![image](https://user-images.githubusercontent.com/91546664/189028782-1d90ed74-fb63-4848-8f0e-0017d2f12aba.png)
