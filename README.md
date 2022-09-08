@@ -1,7 +1,17 @@
 # SW1NH-checker
-Valorant account checker without using any proxies
+What is this? 
 
+This is a tools that show the infomation of the valorant account. You put the account in it and then it will check the info. 
+Only show account that is full captured, otherwise, it wont show in result
+Auto create result folder
+
+How to use: install python, install all library that is needed
+
+Discord:
 https://discord.gg/5XxpCPeWGc
  
-![unknown](https://user-images.githubusercontent.com/91546664/185177190-f9276116-a06f-44d4-9655-515725b49bc7.png)
+ Main GUI:
+![image](https://user-images.githubusercontent.com/91546664/189028782-1d90ed74-fb63-4848-8f0e-0017d2f12aba.png)
+Output format:
+![image](https://user-images.githubusercontent.com/91546664/189029052-55af9b07-6381-4598-a9d8-ba02c4a6691a.png)
 
