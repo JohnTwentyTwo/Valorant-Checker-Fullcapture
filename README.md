@@ -25,4 +25,4 @@ Note: The 2.3 compiled version is in my discord sever
       
 Please leave a star if you like this <3
 
-
+50 stars and i'll add proxies to this 
