@@ -16,6 +16,7 @@ https://discord.gg/5XxpCPeWGc
  
  Main GUI:
 ![image](https://user-images.githubusercontent.com/91546664/189028782-1d90ed74-fb63-4848-8f0e-0017d2f12aba.png)
+
 Output format:
 ![image](https://user-images.githubusercontent.com/91546664/189029052-55af9b07-6381-4598-a9d8-ba02c4a6691a.png)
 
