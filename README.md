@@ -22,5 +22,7 @@ Output format:
 
 Note: The 2.3 compiled version is in my discord sever
       The checker will get 3mins ratelimit after 60 accounts, after that it will work again, dont close it, be patient
+      
+Please leave a star if you like this <3
 
 
