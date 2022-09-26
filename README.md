@@ -1,4 +1,5 @@
 # SW1NH-checker
+UPDATE 26/9/2022: this is the last time I update this checker!
 What is this? 
 
 This is a tools that show the infomation of the valorant account. You put the account in it and then it will check the info. 
