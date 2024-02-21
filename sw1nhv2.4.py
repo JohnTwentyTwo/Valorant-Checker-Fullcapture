@@ -84,7 +84,7 @@ def checker():
 #get_input   
     print()
     print(Fore.LIGHTGREEN_EX + "Choose your combo:")
-    fileNameCombo = filedialog.askopenfile(parent=root, mode='rb', title='Choose your combo',filetype=(("txt", "*.txt"), ("All files", "*.txt")))
+    fileNameCombo = filedialog.askopenfile(parent=root, mode='rb', title='Choose your combo',filetypes=(("txt", "*.txt"), ("All files", "*.txt")))
     if fileNameCombo is None:
         print()
         print(Fore.RED + "Please select valid combo file!")
